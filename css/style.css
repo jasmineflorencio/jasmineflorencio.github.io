@@ -1,0 +1,25 @@
+body {
+	background: #fffff5;
+}
+
+.room-style {
+	border: 2px solid #595959;
+}
+
+h1 {
+	color: #333333;
+	text-align: center;
+	font-family: 'Handlee', sans-serif;
+}
+
+h2 {
+	color: #4d4d4d;
+	text-align: center;
+	font-family: 'Handlee', sans-serif;
+	text-transform: uppercase;
+}
+
+p {
+	color: #a6a6a6;
+	font-family: 'Handlee', sans-serif;
+}
